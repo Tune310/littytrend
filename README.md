@@ -1,4 +1,4 @@
 # Compile Sass
 
 - Type in terminal 
-	$ sass assets/partials/_custom.scss assets/custom.css
+	$ sass --watch assets/sass/custom.scss:assets/custom.css
