@@ -7,6 +7,8 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="theme-color" content="{{ settings.color_button }}">
   <link rel="canonical" href="{{ canonical_url }}">
+  {{ 'jquery-3.3.1.min.js' | asset_url | script_tag }}
+
 
   {% if settings.favicon != blank %}
     <link rel="shortcut icon" href="{{ settings.favicon | img_url: '32x32' }}" type="image/png">
@@ -31,9 +33,15 @@
   {% endif %}
 
   {% include 'social-meta-tags' %}
-
+  
   {{ 'theme.scss.css' | asset_url | stylesheet_tag }}
   {{ 'custom.css' | asset_url | stylesheet_tag }}
+  {{ 'jquery.bxslider.js' | asset_url | script_tag }}
+  {{ 'jquery.bxslider.css' | asset_url | stylesheet_tag }}
+  {{ 'custom.js' | asset_url | script_tag }}
+  
+  
+  
   {% include 'google-fonts' %}
 
   <script>
@@ -113,6 +121,5 @@
 <!-- spurit_uev-added -->
 {% include 'spurit_uev-theme-snippet' %}
 <!-- /spurit_uev-added -->
-
 </body>
 </html>
