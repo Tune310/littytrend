@@ -14,7 +14,7 @@
 
     {% if link.links != blank %}
       <li class="site-nav--has-dropdown{% if three_level_nav %} site-nav--has-centered-dropdown{% endif %}{% if link.active %} site-nav--active{% endif %}" aria-haspopup="true" aria-controls="SiteNavLabel-{{ child_list_handle }}">
-        <a href="{{ link.url }}" class="site-nav__link site-nav__link--main"{% if link.active %} aria-current="page"{% endif %} aria-expanded="false">
+        <a href="javascript:void(0)" class="site-nav__link site-nav__link--main"{% if link.active %} aria-current="page"{% endif %} aria-expanded="false">
           {{ link.title }}
           {% include 'icon-chevron-down' %}
         </a>

@@ -11,7 +11,7 @@ ul.site-footer__linklist {
 }
 
 #shopify-section-footer > footer > div > div:nth-child(1) > div:nth-child(3) {
-  display: none !important;
+  // display: none !important;
 }
 
 #ComparePrice-product-template > span {
@@ -24,10 +24,6 @@ ul.site-footer__linklist {
 
 .product-price__sale-label {
   display: none;
-}
-
-.medium-up--one-half {
-  margin: 0 auto !important;
 }
 
 ul.site-nav {
@@ -45,6 +41,9 @@ ul.site-nav {
 
 .site-footer__copyright {
   text-align: left !important;
+  @media screen and (max-width: 749px) {
+    text-align: center !important;
+  } 
 }
 
 .site-footer__social-icons, .site-footer__copyright {
@@ -52,7 +51,7 @@ ul.site-nav {
 }
 
 #shopify-section-footer > footer > div > div:nth-child(2) > div:nth-child(2) > div {
-  text-align: right !important;
+  // text-align: right !important;
   @media screen and (max-width: 480px) {
     text-align: center !important;
   }
@@ -78,3 +77,98 @@ ul.site-nav {
   margin-top: 55px;
   padding: 20px 0px;
 }
+
+.btn--secondary {
+  color: black;
+  background-color: white;
+}
+
+.wrap-checkout {
+  max-width: 300px;
+}
+
+.selector-wrapper {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.product-form__item--submit {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#AddToCart-product-template {
+  margin-bottom: 5px;
+}
+
+.site-footer__newsletter {
+  max-width: 320px;
+  text-align: center;
+}
+
+footer .site-footer__newsletter {
+  display: none;
+}
+
+#newsletter-wrapper, .newsletter-section {
+  width: 100%;
+  padding-left: 0px !important;
+  background-color: white !important;
+  z-index: 1000000000 !important;
+  position: relative;
+  padding-top: 0px; 
+  @media screen and (min-width: 1250px) {
+    margin-top: -220px;
+  }
+  @media screen and (max-width: 1249px) {
+    margin-top: -220px;
+  }
+  @media screen and (max-width: 1150px) {
+    margin-top: -200px;
+  }
+  @media screen and (max-width: 1050px) {
+    margin-top: -180px;
+  } 
+  @media screen and (max-width: 970px) {
+    margin-top: -160px;
+  }
+  @media screen and (max-width: 920px) {
+     margin-top: -130px;
+   }  
+  @media screen and (max-width: 850px) {
+    margin-top: -105px;
+  } 
+  @media screen and (max-width: 749px) {
+    margin-top: -70px;
+  } 
+
+  label.h2 {
+    text-align: left !important;
+    @media screen and (max-width: 749px) {
+      text-align: center !important;
+    } 
+  }
+  .newsletter__input {
+    border-left-width: 0px
+  }
+}
+
+.newsletter-section div.section-header{
+  margin-top: 25px;
+  @media screen and (min-width: 749px) {
+    margin-bottom: 15px !important;
+  } 
+}
+
+.newsletter-section .page-width {
+    position: relative;
+    width: 100%;
+}
+
+.newsletter-section .password__input-group {
+      @media screen and (min-width: 749px) {
+        margin: 0 0 55px;
+      } 
+}
+
+    

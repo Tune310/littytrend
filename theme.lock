@@ -6,9 +6,9 @@ assets/currency-flags-small.png:
 assets/currency-flags.png:
   development: 2018-03-10T19:11:07-08:00   59d3e93fa0a48bdc2eecb0d6bed1e7b9
 assets/custom.css:
-  development: 2018-04-18T22:07:57-07:00   841409ac3e1325a4b7f0f94e70f2c428
+  development: 2018-04-20T03:51:58-07:00   c7eb9d3adff12a6f9d01425b97a7fe5e
 assets/custom.css.map:
-  development: 2018-04-18T22:08:05-07:00   a335f5cb2bc46a174d541c3901da70b8
+  development: 2018-04-20T03:50:29-07:00   5a8bd0fbbb62dfd892a726ba1b892874
 assets/custom.js:
   development: 2018-04-12T00:23:57-07:00   a8a1165f2bb90738055f66a55309ce8e
 assets/doubly.js:
@@ -114,7 +114,7 @@ sections/password-footer.liquid:
 sections/password-header.liquid:
   development: 2018-02-02T17:13:42-08:00   96c731183fa1c3f2f87ca66501494897
 sections/product-template.liquid:
-  development: 2018-03-07T05:44:41-08:00   ff6d05291a58846f12395d29c66dccd5
+  development: 2018-04-19T23:56:39-07:00   6d89ad825620f53d7a4f573c24d74998
 sections/quotes.liquid:
   development: 2018-02-02T17:13:43-08:00   b234ffff9a061befe87a0d69a121af1c
 sections/rich-text.liquid:
@@ -248,7 +248,7 @@ snippets/product-price.liquid:
 snippets/search-form.liquid:
   development: 2018-02-02T17:13:48-08:00   28a50f2542fd28c27fd3eb50ae816c46
 snippets/site-nav.liquid:
-  development: 2018-02-26T14:33:47-08:00   5dd310311666e5b860d9dfe8af0332e8
+  development: 2018-04-19T22:43:03-07:00   2062ef097cb17de9d4b07cf5002e0662
 snippets/social-meta-tags.liquid:
   development: 2018-02-02T17:13:48-08:00   ae9e213401623b2601abf0ace8e21537
 snippets/social-sharing.liquid:
