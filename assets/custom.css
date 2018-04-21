@@ -266,9 +266,11 @@ footer .site-footer__newsletter {
     padding: 5px; }
   .collection-grid-item__link:hover {
     opacity: 0.9; }
+  .collection-grid-item__link h3 {
+    border: 1px solid black; }
   .collection-grid-item__link:hover h3 {
     border: 1px solid black;
-    background: rgba(255, 255, 255, 0.4);
+    background: rgba(255, 255, 255, 0.8);
     visibility: visible;
     opacity: 1; }
 
