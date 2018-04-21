@@ -8,7 +8,7 @@
     "color_button_text": "#ffffff",
     "color_small_button": "#000000",
     "color_small_button_text": "#ffffff",
-    "color_text_field": "#919191",
+    "color_text_field": "#000000",
     "color_text_field_text": "#ffffff",
     "color_image_overlay_text": "#000000",
     "color_image_overlay": "#000000",
@@ -122,36 +122,6 @@
           "show_view_all": false
         }
       },
-      "1524205757614": {
-        "type": "custom-content",
-        "blocks": {
-          "1524205757614-0": {
-            "type": "text",
-            "settings": {
-              "title": "",
-              "text": "<p><strong>We believe the customer is always the most important part in a business. So we strive to provide&nbsp;excellent<\/strong> <strong>customer service in every field possible.&nbsp;<\/strong><strong>We believe in our products so much&nbsp;we offer a&nbsp;zero hassle money back guarantee.<\/strong><\/p>\n<p><strong>-We Trust Our Products!<\/strong><\/p>\n<p><strong>-We Use Our Products! <\/strong><\/p>\n<p><strong>-We Love Our Products!<\/strong><\/p>\n<p><strong>Only supplying the&nbsp;best trending items and accessories on the market. Look out for our new Collections as we add trending items to our site daily. Please don't forget to sign up to our&nbsp;&ldquo;Newsletter&rdquo; Add your email below to get special offers, free giveaways, and once in a lifetime deals.&nbsp; &nbsp; &nbsp;<\/strong><\/p>",
-              "width": "50%",
-              "alignment": "center",
-              "align_text": "left"
-            }
-          },
-          "1524205757614-1": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/littys.png",
-              "width": "50%",
-              "alignment": "center"
-            }
-          }
-        },
-        "block_order": [
-          "1524205757614-0",
-          "1524205757614-1"
-        ],
-        "settings": {
-          "title": ""
-        }
-      },
       "1524205875561": {
         "type": "collection-list",
         "blocks": {
@@ -187,9 +157,77 @@
       "1524217749551": {
         "type": "newsletter",
         "settings": {
-          "section_title": "Join Our Newsletter List",
+          "section_title": "Join Our Newsletter",
           "subheading": "",
           "show_background": true
+        }
+      },
+      "1524304115039": {
+        "type": "slideshow",
+        "blocks": {
+          "1524304115039-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/sacsa.jpeg",
+              "alignment": "top",
+              "title": "",
+              "subheading": "",
+              "link": ""
+            }
+          },
+          "1524304115039-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/sacas.jpeg",
+              "alignment": "top",
+              "title": "",
+              "subheading": "",
+              "link": ""
+            }
+          },
+          "1524304494715": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/eqde.jpeg",
+              "alignment": "top",
+              "title": "",
+              "subheading": "",
+              "link": ""
+            }
+          },
+          "1524304517958": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/vasfarw.jpeg",
+              "alignment": "top",
+              "title": "",
+              "subheading": "",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1524304115039-0",
+          "1524304115039-1",
+          "1524304494715",
+          "1524304517958"
+        ],
+        "settings": {
+          "autoplay": true,
+          "autoplay_speed": "5000",
+          "slideshow_height": "small",
+          "text_size": "medium"
+        }
+      },
+      "1524304994447": {
+        "type": "feature-row",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/litty-logo-centered.png",
+          "layout": "left",
+          "title": "",
+          "text": "<p><strong>We believe the customer is always the most important part in a business. So we strive to provide&nbsp;excellent<\/strong>&nbsp;<strong>customer service in every field possible.&nbsp;<\/strong><strong>We believe in our products so much&nbsp;we offer a&nbsp;zero hassle money back guarantee.<\/strong><\/p>\n<p><strong>-We Trust Our Products!<\/strong><\/p>\n<p><strong>-We Use Our Products!<\/strong><\/p>\n<p><strong>-We Love Our Products!<\/strong><\/p>\n<p><strong>Only supplying the&nbsp;best trending items and accessories on the market. Look out for our new Collections as we add trending items to our site daily. Please don't forget to sign up to our&nbsp;&ldquo;Newsletter&rdquo; Add your email below to get special offers, free giveaways, and once in a lifetime deals.&nbsp; &nbsp;&nbsp;<\/strong><\/p>",
+          "button_label": "",
+          "button_link": ""
         }
       }
     },
@@ -197,8 +235,9 @@
       "1524205875561",
       "1524204350406",
       "1522892922444",
-      "1524205757614",
-      "1524217749551"
+      "1524304994447",
+      "1524217749551",
+      "1524304115039"
     ]
   },
   "presets": {

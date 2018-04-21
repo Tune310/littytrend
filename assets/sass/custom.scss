@@ -242,3 +242,38 @@ footer .site-footer__newsletter {
    text-align: center;
  } 
 }
+
+.collection-grid-item {
+    @include display(flex);
+    height: 100%;
+    @include justify-content(center);
+    @include align-items(center);
+    text-align:  center;
+    padding-bottom: 0px;
+    height: 510px;
+    &__title {
+    border: 1px solid black;
+    margin: 0 auto;
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s, opacity 0.8s;
+    color: black;
+    width: 60%;
+    background: rgba(255,255,255,0.4);
+    padding: 5px;
+  }
+  &__link:hover {
+    opacity: 0.9;
+  }
+  &__link:hover h3 {
+    visibility: visible;
+    opacity: 1;
+  }
+}
+
+.collection-flex {
+  @include display(flex);
+  height: 100%;
+  @include justify-content(center);
+  @include align-items(center);
+}
