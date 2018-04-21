@@ -5,6 +5,6 @@ production:
   timeout: 60s
 
 development:
-  password: bdeab93dddcc2c82e5963a3ead517330
-  theme_id: "14491615287"
+  password: a440f5568d28c74b0cdc92dc83eb50e1
+  theme_id: "14491680823"
   store: the-smoke-trend.myshopify.com
