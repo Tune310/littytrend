@@ -111,46 +111,6 @@
           "show_view_all": false
         }
       },
-      "1522995389009": {
-        "type": "image-bar",
-        "blocks": {
-          "1522995389009-0": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/eqde.jpeg",
-              "alignment": "center",
-              "link": "",
-              "cta_label": ""
-            }
-          },
-          "1522995389009-1": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/sacas.jpeg",
-              "alignment": "center",
-              "link": "",
-              "cta_label": ""
-            }
-          },
-          "1522995389009-2": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/sacsa.jpeg",
-              "alignment": "center",
-              "link": "",
-              "cta_label": ""
-            }
-          }
-        },
-        "block_order": [
-          "1522995389009-0",
-          "1522995389009-1",
-          "1522995389009-2"
-        ],
-        "settings": {
-          "section_height": "medium"
-        }
-      },
       "1524204350406": {
         "type": "collection",
         "settings": {
@@ -169,7 +129,7 @@
             "type": "text",
             "settings": {
               "title": "",
-              "text": "<p><strong>We believe the customer is the most important.&nbsp;So we strive to provide&nbsp;excellent customer service and the best trending Accessories on the market so Look Out!&nbsp;We add new trending items to our site daily. Don't forget to sign up to our&nbsp;Newsletter&nbsp;list by simply adding your email. Get special offers, free giveaways, and once-in-a-lifetime deals.&nbsp;<\/strong><\/p>",
+              "text": "<p><strong>We believe the customer is always the most important part in a business. So we strive to provide&nbsp;excellent<\/strong> <strong>customer service in every field possible.&nbsp;<\/strong><strong>We believe in our products so much&nbsp;we offer a&nbsp;zero hassle money back guarantee.<\/strong><\/p>\n<p><strong>-We Trust Our Products!<\/strong><\/p>\n<p><strong>-We Use Our Products! <\/strong><\/p>\n<p><strong>-We Love Our Products!<\/strong><\/p>\n<p><strong>Only supplying the&nbsp;best trending items and accessories on the market. Look out for our new Collections as we add trending items to our site daily. Please don't forget to sign up to our&nbsp;&ldquo;Newsletter&rdquo; Add your email below to get special offers, free giveaways, and once in a lifetime deals.&nbsp; &nbsp; &nbsp;<\/strong><\/p>",
               "width": "50%",
               "alignment": "center",
               "align_text": "left"
@@ -237,7 +197,6 @@
       "1524205875561",
       "1524204350406",
       "1522892922444",
-      "1522995389009",
       "1524205757614",
       "1524217749551"
     ]
