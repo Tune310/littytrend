@@ -2,6 +2,12 @@
 assets/ajax-loader.gif:
   development: 2018-04-20T18:44:43-07:00   deca8b0ecd6974227d157b6d7068995d
   production: 2018-02-02T17:13:43-08:00   deca8b0ecd6974227d157b6d7068995d
+assets/centered-summer-sunglasses-updated-versiontwo.jpg:
+  development: 2018-04-20T22:21:52-07:00   9c2bf2eb01fce6fbea40bdd12a568bf9
+assets/centered-summer-sunglasses-updated.jpg:
+  development: 2018-04-20T22:07:23-07:00   20d15b7fc663926a13aeee24a559b0cc
+assets/cool-sunglasses-centered-versiontwo.jpg:
+  development: 2018-04-20T22:40:54-07:00   a8e3efa1232e5d70b0302143c7887f5e
 assets/currency-flags-small.png:
   development: 2018-04-20T18:44:44-07:00   b3426b0214692d64910c1f2a329b6e0d
   production: 2018-03-10T19:11:11-08:00   b3426b0214692d64910c1f2a329b6e0d
@@ -9,11 +15,11 @@ assets/currency-flags.png:
   development: 2018-04-20T18:44:44-07:00   59d3e93fa0a48bdc2eecb0d6bed1e7b9
   production: 2018-03-10T19:11:07-08:00   59d3e93fa0a48bdc2eecb0d6bed1e7b9
 assets/custom.css:
-  development: 2018-04-20T19:34:22-07:00   8ed0d4f21d0acbec99988c4a4841e0a4
-  production: 2018-04-20T17:11:36-07:00   8ed0d4f21d0acbec99988c4a4841e0a4
+  development: 2018-04-20T21:19:21-07:00   6c6ddc537451c3a1193f8983f693816f
+  production: 2018-04-20T19:58:49-07:00   8ed0d4f21d0acbec99988c4a4841e0a4
 assets/custom.css.map:
-  development: 2018-04-20T18:44:45-07:00   49bd3dbcca3fb30b77b9fe21919f86ed
-  production: 2018-04-20T17:09:07-07:00   49bd3dbcca3fb30b77b9fe21919f86ed
+  development: 2018-04-20T21:19:21-07:00   9f5e3884b3887cf406d0a38a7cf0004a
+  production: 2018-04-20T19:58:49-07:00   49bd3dbcca3fb30b77b9fe21919f86ed
 assets/custom.js:
   development: 2018-04-20T18:44:45-07:00   a8a1165f2bb90738055f66a55309ce8e
   production: 2018-04-12T00:23:57-07:00   a8a1165f2bb90738055f66a55309ce8e
@@ -65,6 +71,12 @@ assets/theme.scss.liquid:
 assets/vendor.js:
   development: 2018-04-20T18:44:47-07:00   cb7c4217c9b6feb844647b361accfe6c
   production: 2018-02-02T17:13:44-08:00   cb7c4217c9b6feb844647b361accfe6c
+assets/vintage-cat-eye-centered.jpg:
+  development: 2018-04-20T22:14:04-07:00   416270ff1ce4194d4c3b98b944344fef
+assets/vintage-shape-sunglasses-centered.jpg:
+  development: 2018-04-20T22:26:45-07:00   e83edf349ae4a25c63ba0f444c5fe213
+assets/white-sunglasses-centered.jpg:
+  development: 2018-04-20T22:30:53-07:00   7bf598c57965477d68c9f043fd7debb4
 config/settings_data.json:
   development: 2018-04-20T18:44:51-07:00   23968b8b2fe1c19e957bb48e89a28529
   production: 2018-04-20T03:13:33-07:00   23968b8b2fe1c19e957bb48e89a28529
@@ -363,7 +375,7 @@ snippets/pagination.liquid:
   development: 2018-04-20T18:44:50-07:00   21eb22fbf93da5d96f2d111ce4784463
   production: 2018-02-02T17:13:47-08:00   21eb22fbf93da5d96f2d111ce4784463
 snippets/product-card-grid.liquid:
-  development: 2018-04-20T18:44:50-07:00   4688cc4ff89f19be4a58919fb7a3a8fe
+  development: 2018-04-20T21:10:08-07:00   21a152c9512fcf61223e66b2e4d80b25
   production: 2018-02-02T17:13:47-08:00   4688cc4ff89f19be4a58919fb7a3a8fe
 snippets/product-card-list.liquid:
   development: 2018-04-20T18:44:50-07:00   701fa6db04bd9c70283028cc4274fc2f

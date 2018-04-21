@@ -158,4 +158,8 @@ footer .site-footer__newsletter {
     width: 26px;
     height: 26px; } }
 
+#collection-image-wrapper {
+  max-width: 400px;
+  overflow: hidden; }
+
 /*# sourceMappingURL=custom.css.map */
