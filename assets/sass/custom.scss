@@ -73,8 +73,8 @@ ul.site-nav {
 .site-footer {
   background-color: rgba(0, 0, 0, 0.89);
   margin-bottom: 0px;
-  margin-top: 55px;
-  padding: 20px 0px;
+  margin-top: 15px;
+  // padding: 20px 0px;
 }
 
 .btn--secondary {
@@ -236,3 +236,9 @@ footer .site-footer__newsletter {
   @include justify-content(center);
   @include align-items(center);
  }
+
+.feature-row__text {
+ @media screen and (max-width: 749px) {
+   text-align: center;
+ } 
+}

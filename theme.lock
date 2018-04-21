@@ -16,10 +16,10 @@ assets/currency-flags.png:
   production: 2018-03-10T19:11:07-08:00   59d3e93fa0a48bdc2eecb0d6bed1e7b9
 assets/custom.css:
   development: 2018-04-21T01:58:33-07:00   dfeeaa8ef574cbbc173027cb603c577d
-  production: 2018-04-21T02:55:30-07:00   2961dc1837847560b960c075c9b28b33
+  production: 2018-04-21T03:20:20-07:00   57ce2d018e16d8ac20f8a8cd4630e58b
 assets/custom.css.map:
   development: 2018-04-21T01:58:19-07:00   fee7d5bd415e2502846a70c4ce9f2c26
-  production: 2018-04-21T02:46:15-07:00   618d5a56654a13a7f57de409cd15d255
+  production: 2018-04-21T03:20:24-07:00   0ba85e548e328e31dfa11237ae33b4d3
 assets/custom.js:
   development: 2018-04-20T18:44:45-07:00   a8a1165f2bb90738055f66a55309ce8e
   production: 2018-04-12T00:23:57-07:00   a8a1165f2bb90738055f66a55309ce8e
@@ -54,6 +54,10 @@ assets/jquery.bxslider.min.js:
 assets/lazysizes.js:
   development: 2018-04-20T18:44:46-07:00   a27b15d827d7a26f9fa58fb6b4f9d4b6
   production: 2018-02-02T17:13:44-08:00   a27b15d827d7a26f9fa58fb6b4f9d4b6
+assets/litty-logo-centered.png:
+  production: 2018-04-21T03:14:06-07:00   92e12812d8dd1151be1da00a76837a49
+assets/litty-logo.png:
+  production: 2018-04-21T03:12:46-07:00   9213a8552ccb5b7b7e088dd7da356356
 assets/match-media.min.js:
   development: 2018-04-20T18:44:46-07:00   d0bf06c458a236dcca39b3be8cf80ec5
   production: 2018-02-02T17:13:44-08:00   d0bf06c458a236dcca39b3be8cf80ec5

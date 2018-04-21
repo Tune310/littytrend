@@ -80,8 +80,7 @@ ul.site-nav {
 .site-footer {
   background-color: rgba(0, 0, 0, 0.89);
   margin-bottom: 0px;
-  margin-top: 55px;
-  padding: 20px 0px; }
+  margin-top: 15px; }
 
 .btn--secondary {
   color: black;
@@ -224,5 +223,9 @@ footer .site-footer__newsletter {
   -o-align-items: center;
   align-items: center;
   -ms-flex-align: center; }
+
+@media screen and (max-width: 749px) {
+  .feature-row__text {
+    text-align: center; } }
 
 /*# sourceMappingURL=custom.css.map */
