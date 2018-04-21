@@ -4,7 +4,7 @@ development:
   store: the-smoke-trend.myshopify.com
 production:
   password: 97307e15a17231212ecf37c41f6969f3
-  theme_id: "10834051127"
+  theme_id: "14491680823"
   store: the-smoke-trend.myshopify.com
   timeout: 60s
 
