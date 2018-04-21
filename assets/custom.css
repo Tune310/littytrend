@@ -259,18 +259,16 @@ footer .site-footer__newsletter {
   padding-bottom: 0px;
   height: 510px; }
   .collection-grid-item__title {
-    border: 1px solid black;
     margin: 0 auto;
-    visibility: hidden;
-    opacity: 0;
-    transition: visibility 0s, opacity 0.8s;
+    transition: background 0.2s, border 0.5s;
     color: black;
     width: 60%;
-    background: rgba(255, 255, 255, 0.4);
     padding: 5px; }
   .collection-grid-item__link:hover {
     opacity: 0.9; }
   .collection-grid-item__link:hover h3 {
+    border: 1px solid black;
+    background: rgba(255, 255, 255, 0.4);
     visibility: visible;
     opacity: 1; }
 
