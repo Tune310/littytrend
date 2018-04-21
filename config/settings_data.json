@@ -10,7 +10,7 @@
     "color_small_button_text": "#ffffff",
     "color_text_field": "#919191",
     "color_text_field_text": "#ffffff",
-    "color_image_overlay_text": "#ffffff",
+    "color_image_overlay_text": "#000000",
     "color_image_overlay": "#000000",
     "image_overlay_opacity": 0,
     "color_body_bg": "#ffffff",
@@ -50,7 +50,7 @@
       "header": {
         "type": "header",
         "settings": {
-          "align_logo": "center",
+          "align_logo": "left",
           "logo": "shopify:\/\/shop_images\/coin.png",
           "logo_max_width": "150",
           "main_linklist": "main-menu",
@@ -111,56 +111,6 @@
           "show_view_all": false
         }
       },
-      "1522969117648": {
-        "type": "image-bar",
-        "blocks": {
-          "1522969117648-0": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/asgawre.jpeg",
-              "alignment": "center",
-              "link": "",
-              "cta_label": ""
-            }
-          },
-          "1522969117648-1": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/vasfarw.jpeg",
-              "alignment": "center",
-              "link": "",
-              "cta_label": ""
-            }
-          },
-          "1522969117648-2": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/awtfwae.jpeg",
-              "alignment": "center",
-              "link": "",
-              "cta_label": ""
-            }
-          },
-          "1522969194519": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/advfea.jpg",
-              "alignment": "center",
-              "link": "",
-              "cta_label": ""
-            }
-          }
-        },
-        "block_order": [
-          "1522969117648-0",
-          "1522969117648-1",
-          "1522969117648-2",
-          "1522969194519"
-        ],
-        "settings": {
-          "section_height": "medium"
-        }
-      },
       "1522995389009": {
         "type": "image-bar",
         "blocks": {
@@ -200,12 +150,96 @@
         "settings": {
           "section_height": "medium"
         }
+      },
+      "1524204350406": {
+        "type": "collection",
+        "settings": {
+          "title": "🏖Swimsuits👙",
+          "collection": "home-page-swimsuits",
+          "grid": 4,
+          "rows": 2,
+          "show_vendor": false,
+          "show_view_all": false
+        }
+      },
+      "1524205757614": {
+        "type": "custom-content",
+        "blocks": {
+          "1524205757614-0": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "text": "<p><strong>We believe the customer is the most important.&nbsp;So we strive to provide&nbsp;excellent customer service and the best trending Accessories on the market so Look Out!&nbsp;We add new trending items to our site daily. Don't forget to sign up to our&nbsp;Newsletter&nbsp;list by simply adding your email. Get special offers, free giveaways, and once-in-a-lifetime deals.&nbsp;<\/strong><\/p>",
+              "width": "50%",
+              "alignment": "center",
+              "align_text": "left"
+            }
+          },
+          "1524205757614-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/littys.png",
+              "width": "50%",
+              "alignment": "center"
+            }
+          }
+        },
+        "block_order": [
+          "1524205757614-0",
+          "1524205757614-1"
+        ],
+        "settings": {
+          "title": ""
+        }
+      },
+      "1524205875561": {
+        "type": "collection-list",
+        "blocks": {
+          "1524205875561-0": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "swimsuit"
+            }
+          },
+          "1524205875561-1": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "sunglasses"
+            }
+          },
+          "1524205875561-2": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "beach-towels"
+            }
+          }
+        },
+        "block_order": [
+          "1524205875561-0",
+          "1524205875561-1",
+          "1524205875561-2"
+        ],
+        "settings": {
+          "title": "Shop By Collection",
+          "grid": 2
+        }
+      },
+      "1524217749551": {
+        "type": "newsletter",
+        "settings": {
+          "section_title": "Join Our Newsletter List",
+          "subheading": "",
+          "show_background": true
+        }
       }
     },
     "content_for_index": [
-      "1522969117648",
+      "1524205875561",
+      "1524204350406",
       "1522892922444",
-      "1522995389009"
+      "1522995389009",
+      "1524205757614",
+      "1524217749551"
     ]
   },
   "presets": {
