@@ -145,4 +145,17 @@ footer .site-footer__newsletter {
   .newsletter-section .password__input-group {
     margin: 0 0 55px; } }
 
+@media screen and (min-width: 901px) {
+  .social-icons .icon {
+    width: 30px;
+    height: 30px; } }
+@media screen and (max-width: 900px) {
+  .social-icons .icon {
+    width: 28px;
+    height: 28px; } }
+@media screen and (max-width: 750px) {
+  .social-icons .icon {
+    width: 26px;
+    height: 26px; } }
+
 /*# sourceMappingURL=custom.css.map */
