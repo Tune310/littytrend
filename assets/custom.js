@@ -8,4 +8,8 @@ jQuery(document).ready(function(){
     slideMargin: 0
   // pagerCustom: '#pagination'
 	});
+  j('.newsletter__submit-text--large').html('JOIN');
 });
+
+
+

@@ -278,3 +278,19 @@ footer .site-footer__newsletter {
   @include justify-content(center);
   @include align-items(center);
 }
+
+.newsletter__submit-text--large {
+  color: #000;
+  // background: rgba(255,255,255,0.8);
+}
+
+.newsletter-section .newsletter__input {
+  border: 1px solid black;
+}
+
+.newsletter__submit {
+    background-color: rgba(0, 0, 0, 0.1);
+    border: black;
+    width: 100px;
+    border: 1px solid black !important;
+}

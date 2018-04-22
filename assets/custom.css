@@ -302,4 +302,16 @@ footer .site-footer__newsletter {
   align-items: center;
   -ms-flex-align: center; }
 
+.newsletter__submit-text--large {
+  color: #000; }
+
+.newsletter-section .newsletter__input {
+  border: 1px solid black; }
+
+.newsletter__submit {
+  background-color: rgba(0, 0, 0, 0.1);
+  border: black;
+  width: 100px;
+  border: 1px solid black !important; }
+
 /*# sourceMappingURL=custom.css.map */
